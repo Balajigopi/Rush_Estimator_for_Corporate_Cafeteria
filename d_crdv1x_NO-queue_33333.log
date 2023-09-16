@@ -1,0 +1,246 @@
+2023-05-19 09:37:47,832   ibmiotf.device.Client      INFO    Connected successfully: d:crdv1x:NO-queue:33333
+2023-05-19 09:37:47,838   ibmiotf.device.Client      INFO    Disconnected from the IBM Watson IoT Platform
+2023-05-19 09:37:47,845   ibmiotf.device.Client      INFO    Closed connection to the IBM Watson IoT Platform
+2023-05-19 09:37:52,357   ibmiotf.device.Client      INFO    Connected successfully: d:crdv1x:NO-queue:33333
+2023-05-19 09:37:52,409   ibmiotf.device.Client      INFO    Disconnected from the IBM Watson IoT Platform
+2023-05-19 09:37:52,414   ibmiotf.device.Client      INFO    Closed connection to the IBM Watson IoT Platform
+2023-05-19 12:21:08,141   ibmiotf.device.Client      INFO    Connected successfully: d:crdv1x:NO-queue:33333
+2023-05-19 12:21:08,197   ibmiotf.device.Client      INFO    Disconnected from the IBM Watson IoT Platform
+2023-05-19 12:21:08,201   ibmiotf.device.Client      INFO    Closed connection to the IBM Watson IoT Platform
+2023-05-19 12:21:11,630   ibmiotf.device.Client      INFO    Connected successfully: d:crdv1x:NO-queue:33333
+2023-05-19 12:21:11,634   ibmiotf.device.Client      INFO    Disconnected from the IBM Watson IoT Platform
+2023-05-19 12:21:11,638   ibmiotf.device.Client      INFO    Closed connection to the IBM Watson IoT Platform
+2023-05-19 12:21:13,420   ibmiotf.device.Client      INFO    Connected successfully: d:crdv1x:NO-queue:33333
+2023-05-19 12:21:13,427   ibmiotf.device.Client      INFO    Disconnected from the IBM Watson IoT Platform
+2023-05-19 12:21:13,433   ibmiotf.device.Client      INFO    Closed connection to the IBM Watson IoT Platform
+2023-05-19 12:21:15,664   ibmiotf.device.Client      INFO    Connected successfully: d:crdv1x:NO-queue:33333
+2023-05-19 12:21:15,714   ibmiotf.device.Client      INFO    Disconnected from the IBM Watson IoT Platform
+2023-05-19 12:21:15,721   ibmiotf.device.Client      INFO    Closed connection to the IBM Watson IoT Platform
+2023-05-19 12:21:17,355   ibmiotf.device.Client      INFO    Connected successfully: d:crdv1x:NO-queue:33333
+2023-05-19 12:21:17,361   ibmiotf.device.Client      INFO    Disconnected from the IBM Watson IoT Platform
+2023-05-19 12:21:17,368   ibmiotf.device.Client      INFO    Closed connection to the IBM Watson IoT Platform
+2023-05-19 12:21:19,714   ibmiotf.device.Client      INFO    Connected successfully: d:crdv1x:NO-queue:33333
+2023-05-19 12:21:19,779   ibmiotf.device.Client      INFO    Disconnected from the IBM Watson IoT Platform
+2023-05-19 12:21:19,785   ibmiotf.device.Client      INFO    Closed connection to the IBM Watson IoT Platform
+2023-05-19 12:21:23,899   ibmiotf.device.Client      INFO    Connected successfully: d:crdv1x:NO-queue:33333
+2023-05-19 12:21:23,940   ibmiotf.device.Client      INFO    Disconnected from the IBM Watson IoT Platform
+2023-05-19 12:21:23,946   ibmiotf.device.Client      INFO    Closed connection to the IBM Watson IoT Platform
+2023-05-19 12:21:25,440   ibmiotf.device.Client      INFO    Connected successfully: d:crdv1x:NO-queue:33333
+2023-05-19 12:21:25,496   ibmiotf.device.Client      INFO    Disconnected from the IBM Watson IoT Platform
+2023-05-19 12:21:25,502   ibmiotf.device.Client      INFO    Closed connection to the IBM Watson IoT Platform
+2023-05-19 12:21:26,654   ibmiotf.device.Client      INFO    Connected successfully: d:crdv1x:NO-queue:33333
+2023-05-19 12:21:26,660   ibmiotf.device.Client      INFO    Disconnected from the IBM Watson IoT Platform
+2023-05-19 12:21:26,665   ibmiotf.device.Client      INFO    Closed connection to the IBM Watson IoT Platform
+2023-05-19 12:21:32,121   ibmiotf.device.Client      INFO    Connected successfully: d:crdv1x:NO-queue:33333
+2023-05-19 12:21:32,127   ibmiotf.device.Client      INFO    Disconnected from the IBM Watson IoT Platform
+2023-05-19 12:21:32,132   ibmiotf.device.Client      INFO    Closed connection to the IBM Watson IoT Platform
+2023-05-19 12:21:33,620   ibmiotf.device.Client      INFO    Connected successfully: d:crdv1x:NO-queue:33333
+2023-05-19 12:21:33,635   ibmiotf.device.Client      INFO    Disconnected from the IBM Watson IoT Platform
+2023-05-19 12:21:33,642   ibmiotf.device.Client      INFO    Closed connection to the IBM Watson IoT Platform
+2023-05-19 12:21:49,491   ibmiotf.device.Client      INFO    Connected successfully: d:crdv1x:NO-queue:33333
+2023-05-19 12:21:49,518   ibmiotf.device.Client      INFO    Disconnected from the IBM Watson IoT Platform
+2023-05-19 12:21:49,522   ibmiotf.device.Client      INFO    Closed connection to the IBM Watson IoT Platform
+2023-05-19 12:21:52,911   ibmiotf.device.Client      INFO    Connected successfully: d:crdv1x:NO-queue:33333
+2023-05-19 12:21:52,915   ibmiotf.device.Client      INFO    Disconnected from the IBM Watson IoT Platform
+2023-05-19 12:21:52,918   ibmiotf.device.Client      INFO    Closed connection to the IBM Watson IoT Platform
+2023-05-19 12:21:54,755   ibmiotf.device.Client      INFO    Connected successfully: d:crdv1x:NO-queue:33333
+2023-05-19 12:21:54,761   ibmiotf.device.Client      INFO    Disconnected from the IBM Watson IoT Platform
+2023-05-19 12:21:54,765   ibmiotf.device.Client      INFO    Closed connection to the IBM Watson IoT Platform
+2023-05-19 12:21:57,087   ibmiotf.device.Client      INFO    Connected successfully: d:crdv1x:NO-queue:33333
+2023-05-19 12:21:57,094   ibmiotf.device.Client      INFO    Disconnected from the IBM Watson IoT Platform
+2023-05-19 12:21:57,101   ibmiotf.device.Client      INFO    Closed connection to the IBM Watson IoT Platform
+2023-05-19 12:21:58,769   ibmiotf.device.Client      INFO    Connected successfully: d:crdv1x:NO-queue:33333
+2023-05-19 12:21:58,776   ibmiotf.device.Client      INFO    Disconnected from the IBM Watson IoT Platform
+2023-05-19 12:21:58,784   ibmiotf.device.Client      INFO    Closed connection to the IBM Watson IoT Platform
+2023-05-19 12:22:01,115   ibmiotf.device.Client      INFO    Connected successfully: d:crdv1x:NO-queue:33333
+2023-05-19 12:22:01,162   ibmiotf.device.Client      INFO    Disconnected from the IBM Watson IoT Platform
+2023-05-19 12:22:01,169   ibmiotf.device.Client      INFO    Closed connection to the IBM Watson IoT Platform
+2023-05-19 12:22:05,361   ibmiotf.device.Client      INFO    Connected successfully: d:crdv1x:NO-queue:33333
+2023-05-19 12:22:05,368   ibmiotf.device.Client      INFO    Disconnected from the IBM Watson IoT Platform
+2023-05-19 12:22:05,374   ibmiotf.device.Client      INFO    Closed connection to the IBM Watson IoT Platform
+2023-05-19 12:22:06,863   ibmiotf.device.Client      INFO    Connected successfully: d:crdv1x:NO-queue:33333
+2023-05-19 12:22:06,906   ibmiotf.device.Client      INFO    Disconnected from the IBM Watson IoT Platform
+2023-05-19 12:22:06,912   ibmiotf.device.Client      INFO    Closed connection to the IBM Watson IoT Platform
+2023-05-19 12:22:08,101   ibmiotf.device.Client      INFO    Connected successfully: d:crdv1x:NO-queue:33333
+2023-05-19 12:22:08,107   ibmiotf.device.Client      INFO    Disconnected from the IBM Watson IoT Platform
+2023-05-19 12:22:08,114   ibmiotf.device.Client      INFO    Closed connection to the IBM Watson IoT Platform
+2023-05-19 12:22:13,383   ibmiotf.device.Client      INFO    Connected successfully: d:crdv1x:NO-queue:33333
+2023-05-19 12:22:13,411   ibmiotf.device.Client      INFO    Disconnected from the IBM Watson IoT Platform
+2023-05-19 12:22:13,417   ibmiotf.device.Client      INFO    Closed connection to the IBM Watson IoT Platform
+2023-05-19 12:22:14,742   ibmiotf.device.Client      INFO    Connected successfully: d:crdv1x:NO-queue:33333
+2023-05-19 12:22:14,783   ibmiotf.device.Client      INFO    Disconnected from the IBM Watson IoT Platform
+2023-05-19 12:22:14,788   ibmiotf.device.Client      INFO    Closed connection to the IBM Watson IoT Platform
+2023-05-19 14:56:33,122   ibmiotf.device.Client      INFO    Connected successfully: d:crdv1x:NO-queue:33333
+2023-05-19 14:56:33,144   ibmiotf.device.Client      INFO    Disconnected from the IBM Watson IoT Platform
+2023-05-19 14:56:33,147   ibmiotf.device.Client      INFO    Closed connection to the IBM Watson IoT Platform
+2023-05-19 14:56:37,073   ibmiotf.device.Client      INFO    Connected successfully: d:crdv1x:NO-queue:33333
+2023-05-19 14:56:37,112   ibmiotf.device.Client      INFO    Disconnected from the IBM Watson IoT Platform
+2023-05-19 14:56:37,116   ibmiotf.device.Client      INFO    Closed connection to the IBM Watson IoT Platform
+2023-05-19 14:56:39,052   ibmiotf.device.Client      INFO    Connected successfully: d:crdv1x:NO-queue:33333
+2023-05-19 14:56:39,113   ibmiotf.device.Client      INFO    Disconnected from the IBM Watson IoT Platform
+2023-05-19 14:56:39,118   ibmiotf.device.Client      INFO    Closed connection to the IBM Watson IoT Platform
+2023-05-19 14:56:41,523   ibmiotf.device.Client      INFO    Connected successfully: d:crdv1x:NO-queue:33333
+2023-05-19 14:56:41,549   ibmiotf.device.Client      INFO    Disconnected from the IBM Watson IoT Platform
+2023-05-19 14:56:41,554   ibmiotf.device.Client      INFO    Closed connection to the IBM Watson IoT Platform
+2023-05-19 14:56:43,381   ibmiotf.device.Client      INFO    Connected successfully: d:crdv1x:NO-queue:33333
+2023-05-19 14:56:43,412   ibmiotf.device.Client      INFO    Disconnected from the IBM Watson IoT Platform
+2023-05-19 14:56:43,417   ibmiotf.device.Client      INFO    Closed connection to the IBM Watson IoT Platform
+2023-05-19 14:56:45,835   ibmiotf.device.Client      INFO    Connected successfully: d:crdv1x:NO-queue:33333
+2023-05-19 14:56:45,840   ibmiotf.device.Client      INFO    Disconnected from the IBM Watson IoT Platform
+2023-05-19 14:56:45,846   ibmiotf.device.Client      INFO    Closed connection to the IBM Watson IoT Platform
+2023-05-19 14:56:50,425   ibmiotf.device.Client      INFO    Connected successfully: d:crdv1x:NO-queue:33333
+2023-05-19 14:56:50,430   ibmiotf.device.Client      INFO    Disconnected from the IBM Watson IoT Platform
+2023-05-19 14:56:50,435   ibmiotf.device.Client      INFO    Closed connection to the IBM Watson IoT Platform
+2023-05-19 14:56:51,954   ibmiotf.device.Client      INFO    Connected successfully: d:crdv1x:NO-queue:33333
+2023-05-19 14:56:51,960   ibmiotf.device.Client      INFO    Disconnected from the IBM Watson IoT Platform
+2023-05-19 14:56:51,964   ibmiotf.device.Client      INFO    Closed connection to the IBM Watson IoT Platform
+2023-05-19 14:56:53,101   ibmiotf.device.Client      INFO    Connected successfully: d:crdv1x:NO-queue:33333
+2023-05-19 14:56:53,107   ibmiotf.device.Client      INFO    Disconnected from the IBM Watson IoT Platform
+2023-05-19 14:56:53,112   ibmiotf.device.Client      INFO    Closed connection to the IBM Watson IoT Platform
+2023-05-19 14:56:59,176   ibmiotf.device.Client      INFO    Connected successfully: d:crdv1x:NO-queue:33333
+2023-05-19 14:56:59,225   ibmiotf.device.Client      INFO    Disconnected from the IBM Watson IoT Platform
+2023-05-19 14:56:59,230   ibmiotf.device.Client      INFO    Closed connection to the IBM Watson IoT Platform
+2023-05-19 14:57:00,499   ibmiotf.device.Client      INFO    Connected successfully: d:crdv1x:NO-queue:33333
+2023-05-19 14:57:00,520   ibmiotf.device.Client      INFO    Disconnected from the IBM Watson IoT Platform
+2023-05-19 14:57:00,525   ibmiotf.device.Client      INFO    Closed connection to the IBM Watson IoT Platform
+2023-05-19 15:03:00,593   ibmiotf.device.Client      INFO    Connected successfully: d:crdv1x:NO-queue:33333
+2023-05-19 15:03:00,596   ibmiotf.device.Client      INFO    Disconnected from the IBM Watson IoT Platform
+2023-05-19 15:03:00,598   ibmiotf.device.Client      INFO    Closed connection to the IBM Watson IoT Platform
+2023-05-19 15:03:04,424   ibmiotf.device.Client      INFO    Connected successfully: d:crdv1x:NO-queue:33333
+2023-05-19 15:03:04,457   ibmiotf.device.Client      INFO    Disconnected from the IBM Watson IoT Platform
+2023-05-19 15:03:04,460   ibmiotf.device.Client      INFO    Closed connection to the IBM Watson IoT Platform
+2023-05-19 15:03:06,536   ibmiotf.device.Client      INFO    Connected successfully: d:crdv1x:NO-queue:33333
+2023-05-19 15:03:06,545   ibmiotf.device.Client      INFO    Disconnected from the IBM Watson IoT Platform
+2023-05-19 15:03:06,550   ibmiotf.device.Client      INFO    Closed connection to the IBM Watson IoT Platform
+2023-05-19 15:03:08,975   ibmiotf.device.Client      INFO    Connected successfully: d:crdv1x:NO-queue:33333
+2023-05-19 15:03:08,983   ibmiotf.device.Client      INFO    Disconnected from the IBM Watson IoT Platform
+2023-05-19 15:03:08,989   ibmiotf.device.Client      INFO    Closed connection to the IBM Watson IoT Platform
+2023-05-19 15:03:10,906   ibmiotf.device.Client      INFO    Connected successfully: d:crdv1x:NO-queue:33333
+2023-05-19 15:03:10,923   ibmiotf.device.Client      INFO    Disconnected from the IBM Watson IoT Platform
+2023-05-19 15:03:10,928   ibmiotf.device.Client      INFO    Closed connection to the IBM Watson IoT Platform
+2023-05-19 15:03:13,347   ibmiotf.device.Client      INFO    Connected successfully: d:crdv1x:NO-queue:33333
+2023-05-19 15:03:13,353   ibmiotf.device.Client      INFO    Disconnected from the IBM Watson IoT Platform
+2023-05-19 15:03:13,357   ibmiotf.device.Client      INFO    Closed connection to the IBM Watson IoT Platform
+2023-05-19 15:03:18,220   ibmiotf.device.Client      INFO    Connected successfully: d:crdv1x:NO-queue:33333
+2023-05-19 15:03:18,225   ibmiotf.device.Client      INFO    Disconnected from the IBM Watson IoT Platform
+2023-05-19 15:03:18,231   ibmiotf.device.Client      INFO    Closed connection to the IBM Watson IoT Platform
+2023-05-19 15:03:19,795   ibmiotf.device.Client      INFO    Connected successfully: d:crdv1x:NO-queue:33333
+2023-05-19 15:03:19,818   ibmiotf.device.Client      INFO    Disconnected from the IBM Watson IoT Platform
+2023-05-19 15:03:19,823   ibmiotf.device.Client      INFO    Closed connection to the IBM Watson IoT Platform
+2023-05-19 15:03:20,938   ibmiotf.device.Client      INFO    Connected successfully: d:crdv1x:NO-queue:33333
+2023-05-19 15:03:20,955   ibmiotf.device.Client      INFO    Disconnected from the IBM Watson IoT Platform
+2023-05-19 15:03:20,960   ibmiotf.device.Client      INFO    Closed connection to the IBM Watson IoT Platform
+2023-05-19 15:03:27,603   ibmiotf.device.Client      INFO    Connected successfully: d:crdv1x:NO-queue:33333
+2023-05-19 15:03:27,664   ibmiotf.device.Client      INFO    Disconnected from the IBM Watson IoT Platform
+2023-05-19 15:03:27,669   ibmiotf.device.Client      INFO    Closed connection to the IBM Watson IoT Platform
+2023-05-19 15:03:28,962   ibmiotf.device.Client      INFO    Connected successfully: d:crdv1x:NO-queue:33333
+2023-05-19 15:03:28,975   ibmiotf.device.Client      INFO    Disconnected from the IBM Watson IoT Platform
+2023-05-19 15:03:28,981   ibmiotf.device.Client      INFO    Closed connection to the IBM Watson IoT Platform
+2023-05-19 15:05:59,073   ibmiotf.device.Client      INFO    Connected successfully: d:crdv1x:NO-queue:33333
+2023-05-19 15:05:59,081   ibmiotf.device.Client      INFO    Disconnected from the IBM Watson IoT Platform
+2023-05-19 15:05:59,086   ibmiotf.device.Client      INFO    Closed connection to the IBM Watson IoT Platform
+2023-05-19 15:06:02,992   ibmiotf.device.Client      INFO    Connected successfully: d:crdv1x:NO-queue:33333
+2023-05-19 15:06:03,019   ibmiotf.device.Client      INFO    Disconnected from the IBM Watson IoT Platform
+2023-05-19 15:06:03,025   ibmiotf.device.Client      INFO    Closed connection to the IBM Watson IoT Platform
+2023-05-19 15:06:05,033   ibmiotf.device.Client      INFO    Connected successfully: d:crdv1x:NO-queue:33333
+2023-05-19 15:06:05,038   ibmiotf.device.Client      INFO    Disconnected from the IBM Watson IoT Platform
+2023-05-19 15:06:05,045   ibmiotf.device.Client      INFO    Closed connection to the IBM Watson IoT Platform
+2023-05-19 15:06:07,637   ibmiotf.device.Client      INFO    Connected successfully: d:crdv1x:NO-queue:33333
+2023-05-19 15:06:07,643   ibmiotf.device.Client      INFO    Disconnected from the IBM Watson IoT Platform
+2023-05-19 15:06:07,648   ibmiotf.device.Client      INFO    Closed connection to the IBM Watson IoT Platform
+2023-05-19 15:06:09,523   ibmiotf.device.Client      INFO    Connected successfully: d:crdv1x:NO-queue:33333
+2023-05-19 15:06:09,529   ibmiotf.device.Client      INFO    Disconnected from the IBM Watson IoT Platform
+2023-05-19 15:06:09,535   ibmiotf.device.Client      INFO    Closed connection to the IBM Watson IoT Platform
+2023-05-19 15:06:11,776   ibmiotf.device.Client      INFO    Connected successfully: d:crdv1x:NO-queue:33333
+2023-05-19 15:06:11,788   ibmiotf.device.Client      INFO    Disconnected from the IBM Watson IoT Platform
+2023-05-19 15:06:11,793   ibmiotf.device.Client      INFO    Closed connection to the IBM Watson IoT Platform
+2023-05-19 15:06:16,121   ibmiotf.device.Client      INFO    Connected successfully: d:crdv1x:NO-queue:33333
+2023-05-19 15:06:16,144   ibmiotf.device.Client      INFO    Disconnected from the IBM Watson IoT Platform
+2023-05-19 15:06:16,149   ibmiotf.device.Client      INFO    Closed connection to the IBM Watson IoT Platform
+2023-05-19 15:06:17,626   ibmiotf.device.Client      INFO    Connected successfully: d:crdv1x:NO-queue:33333
+2023-05-19 15:06:17,648   ibmiotf.device.Client      INFO    Disconnected from the IBM Watson IoT Platform
+2023-05-19 15:06:17,654   ibmiotf.device.Client      INFO    Closed connection to the IBM Watson IoT Platform
+2023-05-19 15:06:18,801   ibmiotf.device.Client      INFO    Connected successfully: d:crdv1x:NO-queue:33333
+2023-05-19 15:06:18,833   ibmiotf.device.Client      INFO    Disconnected from the IBM Watson IoT Platform
+2023-05-19 15:06:18,839   ibmiotf.device.Client      INFO    Closed connection to the IBM Watson IoT Platform
+2023-05-19 15:06:24,579   ibmiotf.device.Client      INFO    Connected successfully: d:crdv1x:NO-queue:33333
+2023-05-19 15:06:24,583   ibmiotf.device.Client      INFO    Disconnected from the IBM Watson IoT Platform
+2023-05-19 15:06:24,587   ibmiotf.device.Client      INFO    Closed connection to the IBM Watson IoT Platform
+2023-05-19 15:06:25,903   ibmiotf.device.Client      INFO    Connected successfully: d:crdv1x:NO-queue:33333
+2023-05-19 15:06:25,930   ibmiotf.device.Client      INFO    Disconnected from the IBM Watson IoT Platform
+2023-05-19 15:06:25,937   ibmiotf.device.Client      INFO    Closed connection to the IBM Watson IoT Platform
+2023-05-19 15:07:12,723   ibmiotf.device.Client      INFO    Connected successfully: d:crdv1x:NO-queue:33333
+2023-05-19 15:07:12,776   ibmiotf.device.Client      INFO    Disconnected from the IBM Watson IoT Platform
+2023-05-19 15:07:12,784   ibmiotf.device.Client      INFO    Closed connection to the IBM Watson IoT Platform
+2023-05-19 15:07:16,504   ibmiotf.device.Client      INFO    Connected successfully: d:crdv1x:NO-queue:33333
+2023-05-19 15:07:16,511   ibmiotf.device.Client      INFO    Disconnected from the IBM Watson IoT Platform
+2023-05-19 15:07:16,518   ibmiotf.device.Client      INFO    Closed connection to the IBM Watson IoT Platform
+2023-05-19 15:07:18,464   ibmiotf.device.Client      INFO    Connected successfully: d:crdv1x:NO-queue:33333
+2023-05-19 15:07:18,483   ibmiotf.device.Client      INFO    Disconnected from the IBM Watson IoT Platform
+2023-05-19 15:07:18,489   ibmiotf.device.Client      INFO    Closed connection to the IBM Watson IoT Platform
+2023-05-19 15:07:20,943   ibmiotf.device.Client      INFO    Connected successfully: d:crdv1x:NO-queue:33333
+2023-05-19 15:07:20,993   ibmiotf.device.Client      INFO    Disconnected from the IBM Watson IoT Platform
+2023-05-19 15:07:20,998   ibmiotf.device.Client      INFO    Closed connection to the IBM Watson IoT Platform
+2023-05-19 15:07:22,840   ibmiotf.device.Client      INFO    Connected successfully: d:crdv1x:NO-queue:33333
+2023-05-19 15:07:22,894   ibmiotf.device.Client      INFO    Disconnected from the IBM Watson IoT Platform
+2023-05-19 15:07:22,900   ibmiotf.device.Client      INFO    Closed connection to the IBM Watson IoT Platform
+2023-05-19 15:07:25,143   ibmiotf.device.Client      INFO    Connected successfully: d:crdv1x:NO-queue:33333
+2023-05-19 15:07:25,149   ibmiotf.device.Client      INFO    Disconnected from the IBM Watson IoT Platform
+2023-05-19 15:07:25,155   ibmiotf.device.Client      INFO    Closed connection to the IBM Watson IoT Platform
+2023-05-19 15:07:29,619   ibmiotf.device.Client      INFO    Connected successfully: d:crdv1x:NO-queue:33333
+2023-05-19 15:07:29,633   ibmiotf.device.Client      INFO    Disconnected from the IBM Watson IoT Platform
+2023-05-19 15:07:29,639   ibmiotf.device.Client      INFO    Closed connection to the IBM Watson IoT Platform
+2023-05-19 15:07:31,114   ibmiotf.device.Client      INFO    Connected successfully: d:crdv1x:NO-queue:33333
+2023-05-19 15:07:31,121   ibmiotf.device.Client      INFO    Disconnected from the IBM Watson IoT Platform
+2023-05-19 15:07:31,127   ibmiotf.device.Client      INFO    Closed connection to the IBM Watson IoT Platform
+2023-05-19 15:07:32,267   ibmiotf.device.Client      INFO    Connected successfully: d:crdv1x:NO-queue:33333
+2023-05-19 15:07:32,275   ibmiotf.device.Client      INFO    Disconnected from the IBM Watson IoT Platform
+2023-05-19 15:07:32,281   ibmiotf.device.Client      INFO    Closed connection to the IBM Watson IoT Platform
+2023-05-19 15:07:38,102   ibmiotf.device.Client      INFO    Connected successfully: d:crdv1x:NO-queue:33333
+2023-05-19 15:07:38,161   ibmiotf.device.Client      INFO    Disconnected from the IBM Watson IoT Platform
+2023-05-19 15:07:38,166   ibmiotf.device.Client      INFO    Closed connection to the IBM Watson IoT Platform
+2023-05-19 15:07:39,535   ibmiotf.device.Client      INFO    Connected successfully: d:crdv1x:NO-queue:33333
+2023-05-19 15:07:39,596   ibmiotf.device.Client      INFO    Disconnected from the IBM Watson IoT Platform
+2023-05-19 15:07:39,602   ibmiotf.device.Client      INFO    Closed connection to the IBM Watson IoT Platform
+2023-05-19 15:10:57,085   ibmiotf.device.Client      INFO    Connected successfully: d:crdv1x:NO-queue:33333
+2023-05-19 15:10:57,089   ibmiotf.device.Client      INFO    Disconnected from the IBM Watson IoT Platform
+2023-05-19 15:10:57,092   ibmiotf.device.Client      INFO    Closed connection to the IBM Watson IoT Platform
+2023-05-19 15:11:00,976   ibmiotf.device.Client      INFO    Connected successfully: d:crdv1x:NO-queue:33333
+2023-05-19 15:11:01,034   ibmiotf.device.Client      INFO    Disconnected from the IBM Watson IoT Platform
+2023-05-19 15:11:01,037   ibmiotf.device.Client      INFO    Closed connection to the IBM Watson IoT Platform
+2023-05-19 15:11:03,089   ibmiotf.device.Client      INFO    Connected successfully: d:crdv1x:NO-queue:33333
+2023-05-19 15:11:03,132   ibmiotf.device.Client      INFO    Disconnected from the IBM Watson IoT Platform
+2023-05-19 15:11:03,136   ibmiotf.device.Client      INFO    Closed connection to the IBM Watson IoT Platform
+2023-05-19 15:11:05,431   ibmiotf.device.Client      INFO    Connected successfully: d:crdv1x:NO-queue:33333
+2023-05-19 15:11:05,445   ibmiotf.device.Client      INFO    Disconnected from the IBM Watson IoT Platform
+2023-05-19 15:11:05,452   ibmiotf.device.Client      INFO    Closed connection to the IBM Watson IoT Platform
+2023-05-19 15:11:07,270   ibmiotf.device.Client      INFO    Connected successfully: d:crdv1x:NO-queue:33333
+2023-05-19 15:11:07,336   ibmiotf.device.Client      INFO    Disconnected from the IBM Watson IoT Platform
+2023-05-19 15:11:07,341   ibmiotf.device.Client      INFO    Closed connection to the IBM Watson IoT Platform
+2023-05-19 15:11:09,652   ibmiotf.device.Client      INFO    Connected successfully: d:crdv1x:NO-queue:33333
+2023-05-19 15:11:09,660   ibmiotf.device.Client      INFO    Disconnected from the IBM Watson IoT Platform
+2023-05-19 15:11:09,666   ibmiotf.device.Client      INFO    Closed connection to the IBM Watson IoT Platform
+2023-05-19 15:11:14,086   ibmiotf.device.Client      INFO    Connected successfully: d:crdv1x:NO-queue:33333
+2023-05-19 15:11:14,092   ibmiotf.device.Client      INFO    Disconnected from the IBM Watson IoT Platform
+2023-05-19 15:11:14,097   ibmiotf.device.Client      INFO    Closed connection to the IBM Watson IoT Platform
+2023-05-19 15:11:15,596   ibmiotf.device.Client      INFO    Connected successfully: d:crdv1x:NO-queue:33333
+2023-05-19 15:11:15,643   ibmiotf.device.Client      INFO    Disconnected from the IBM Watson IoT Platform
+2023-05-19 15:11:15,650   ibmiotf.device.Client      INFO    Closed connection to the IBM Watson IoT Platform
+2023-05-19 15:11:16,904   ibmiotf.device.Client      INFO    Connected successfully: d:crdv1x:NO-queue:33333
+2023-05-19 15:11:16,911   ibmiotf.device.Client      INFO    Disconnected from the IBM Watson IoT Platform
+2023-05-19 15:11:16,916   ibmiotf.device.Client      INFO    Closed connection to the IBM Watson IoT Platform
+2023-05-19 15:11:22,860   ibmiotf.device.Client      INFO    Connected successfully: d:crdv1x:NO-queue:33333
+2023-05-19 15:11:22,877   ibmiotf.device.Client      INFO    Disconnected from the IBM Watson IoT Platform
+2023-05-19 15:11:22,883   ibmiotf.device.Client      INFO    Closed connection to the IBM Watson IoT Platform
+2023-05-19 15:11:24,226   ibmiotf.device.Client      INFO    Connected successfully: d:crdv1x:NO-queue:33333
+2023-05-19 15:11:24,286   ibmiotf.device.Client      INFO    Disconnected from the IBM Watson IoT Platform
+2023-05-19 15:11:24,291   ibmiotf.device.Client      INFO    Closed connection to the IBM Watson IoT Platform
+2023-09-16 20:17:22,336   ibmiotf.device.Client      INFO    Connected successfully: d:crdv1x:NO-queue:33333
+2023-09-16 20:17:22,354   ibmiotf.device.Client      INFO    Disconnected from the IBM Watson IoT Platform
+2023-09-16 20:17:22,360   ibmiotf.device.Client      INFO    Closed connection to the IBM Watson IoT Platform
+2023-09-16 20:17:26,937   ibmiotf.device.Client      INFO    Connected successfully: d:crdv1x:NO-queue:33333
+2023-09-16 20:17:26,957   ibmiotf.device.Client      INFO    Disconnected from the IBM Watson IoT Platform
+2023-09-16 20:17:26,961   ibmiotf.device.Client      INFO    Closed connection to the IBM Watson IoT Platform
+2023-09-16 20:17:29,402   ibmiotf.device.Client      INFO    Connected successfully: d:crdv1x:NO-queue:33333
+2023-09-16 20:17:29,411   ibmiotf.device.Client      INFO    Disconnected from the IBM Watson IoT Platform
+2023-09-16 20:17:29,419   ibmiotf.device.Client      INFO    Closed connection to the IBM Watson IoT Platform
